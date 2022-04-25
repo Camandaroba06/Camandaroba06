@@ -1,7 +1,7 @@
 <h1 align="left">Olá, devs! Eu sou o Camandaroba  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Estudante de Desenvolvimento FullStack & Aluno da Universidade Federal de Juiz de Fora iniciando na programação
-
+- 🔥 Estudante de Desenvolvimento FullStack na One Bit Code & Aluno da Universidade Federal de Juiz de Fora iniciando na programação
+- ⚡ Membro do PET Elétrica UFJF
 <!--
 **Camandaroba06/Camandaroba06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
