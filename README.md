@@ -16,8 +16,8 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
   <a href="https://github.com/Camandaroba06">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=camandaroba06&show_icons=true&theme=tokyonight" alt="Camandaroba06's stats"/>
-<img width=500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camandaroba06&layout=compact&theme=tokyonight" alt="Camandaroba06's most languages"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=Camandaroba06&show_icons=true&theme=tokyonight" alt="Camandaroba06's stats"/>
+<img width=300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camandaroba06&layout=compact&theme=tokyonight" alt="Camandaroba06's most languages"/>
 </p>
 
 
