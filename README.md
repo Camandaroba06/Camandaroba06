@@ -2,7 +2,7 @@
 
 - 🔥 Estudante de Desenvolvimento FullStack na One Bit Code & Aluno da Universidade Federal de Juiz de Fora iniciando na programação
 - ⚡ Membro do PET Elétrica UFJF
-
+## 🛠 &nbsp;Tecnologias que domino
 
 <img align="center" alt="HTML5" 
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
