@@ -1,4 +1,4 @@
-<h1 align="left">Olá, devs! Eu sou o Camandaroba  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Olá, devs! Eu sou o Cristiano Gregory  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 Estudante de Desenvolvimento FullStack na One Bit Code & Aluno da Universidade Federal de Juiz de Fora iniciando na programação
 - ⚡ Membro do PET Elétrica UFJF
