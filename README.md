@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Olá, mundo! Eu sou o [Seu Nome] 👋
+  # Olá, mundo! Eu sou o Cristiano Gregory 👋
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M.Sc.+Candidate+in+Computer+Science+%40+UFMG;Electrical+Engineer+%7C+AI+%26+ML+Researcher;Continual+Learning+%E2%80%A2+AI+Agents+%E2%80%A2+Explainable+AI+(XAI);Deep+Learning+%26+Model+Interpretability)](https://git.io/typing-svg)
 
