@@ -1,30 +1,105 @@
-<h1 align="left">Olá, devs! Eu sou o Cristiano Gregory  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px"></h1>
-
-- 🔥 Estudante de Desenvolvimento FullStack na One Bit Code & Aluno da Universidade Federal de Juiz de Fora iniciando na programação
-- ⚡ Membro do PET Elétrica UFJF
-## 🛠 &nbsp;Tecnologias que domino
-
-<img align="center" alt="HTML5" 
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="JAVASCRIPT" 
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="CSS3" 
-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="GITHUB"
-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-  <a href="https://github.com/Camandaroba06">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=camandaroba06&show_icons=true&theme=dracula" alt="Camandaroba06's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camandaroba06&layout=compact&theme=dracula" alt="Camandaroba06's most languages"/>
-</p>
-
-## &nbsp;Social Links
-
-  <a href="https://www.instagram.com/camandaroba06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cristianogregorymc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/cristiano-gregory-monfrim-camandaroba-4b29b622b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
   
+  # Olá, mundo! Eu sou o [Seu Nome] 👋
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M.Sc.+Candidate+in+Computer+Science+%40+UFMG;Electrical+Engineer+%7C+AI+%26+ML+Researcher;Continual+Learning+%E2%80%A2+AI+Agents+%E2%80%A2+Explainable+AI+(XAI);Deep+Learning+%26+Model+Interpretability)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="http://lattes.cnpq.br/SEU_LATTES" target="_blank"><img src="https://img.shields.io/badge/Currículo_Lattes-1B365D?style=for-the-badge&logo=curriculum&logoColor=white" alt="Lattes" /></a>
+    <a href="https://scholar.google.com/citations?user=SEU_GOOGLE_SCHOLAR" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+    <a href="https://orcid.org/SEU_ORCID" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+    <a href="https://huggingface.co/SEU_HUGGINGFACE" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+    <a href="mailto:seu-email@dcc.ufmg.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+</div>
+
+---
+
+### 🧬 Sobre Mim & Perfil de Pesquisa
+
+- 🎓 **Mestrando em Ciência da Computação** pelo **DCC/UFMG** (Universidade Federal de Minas Gerais).
+- ⚡ **Engenheiro Eletricista** de formação, combinando fundamentos de modelagem matemática, processamento de sinais e sistemas computacionais com inteligência artificial.
+- 🔬 **Principais Linhas de Pesquisa:**
+  - **Continual Learning (Lifelong Learning):** Estratégias de adaptação contínua e mitigação do esquecimento catastrófico (*catastrophic forgetting*) em redes neurais.
+  - **Agentes de IA & LLMs:** Arquiteturas autônomas de tomada de decisão, sistemas multi-agentes e raciocínio estruturado.
+  - **Explainable AI (XAI):** Interpretabilidade de modelos caixa-preta, métodos de atribuição (*SHAP, LIME, Captum, Integrated Gradients*) e auditoria de modelos.
+- 🎯 **Objetivo:** Desenvolver modelos preditivos e sistemas inteligentes que sejam simultaneamente robustos, adaptáveis ao longo do tempo e interpretáveis.
+
+---
+
+### 🛠️ Tecnologias & Frameworks de Pesquisa
+
+<div align="center">
+
+#### 🔹 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+#### 🔹 Deep Learning & Pesquisa em IA
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Captum / XAI](https://img.shields.io/badge/XAI-Captum%20%7C%20SHAP-blueviolet?style=for-the-badge)
+![Avalanche / CL](https://img.shields.io/badge/Continual_Learning-Avalanche-blue?style=for-the-badge)
+
+#### 🔹 Agentes de IA & Ecossistema GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/Llama_Index-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFA800?style=for-the-badge)
+
+#### 🔹 Computação Científica, MLOps & Ferramentas
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 🔬 Linhas de Pesquisa & Projetos
+
+| Tópico | Descrição / Foco | Ferramentas & Métodos |
+| :--- | :--- | :--- |
+| 🧠 **Continual Learning** | Métodos de regularização, replay de memória e expansão arquitetural para mitigar *catastrophic forgetting* em fluxos contínuos de dados. | `PyTorch`, `Avalanche`, `EWC`, `Replay Strategies` |
+| 🤖 **AI Agents & LLMs** | Agentes autônomos de tomada de decisão, sistemas multi-agentes e integração de raciocínio orientado a tarefas. | `LangChain`, `Hugging Face`, `LlamaIndex`, `APIs` |
+| 🔍 **Explainable AI (XAI)** | Interpretabilidade local e global, métodos de atribuição de features, gradientes integrados e visualização de saliência. | `SHAP`, `LIME`, `Captum`, `Integrated Gradients` |
+| ⚡ **Engenharia $\times$ ML** | Aplicações de aprendizado de máquina em sistemas físicos, séries temporais complexas e otimização. | `SciPy`, `NumPy`, `Control Theory`, `Optimization` |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Camandaroba06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camandaroba06&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camandaroba06&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+  *"In God we trust. All others must bring data."* — W. Edwards Deming
+  
+  <br/>
+  
+  📫 **Interessado em colaboração científica ou discussão técnica?** Sinta-se à vontade para entrar em contato!
+
+</div>
