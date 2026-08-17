@@ -88,10 +88,10 @@
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Camandaroba06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camandaroba06&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Camandaroba06&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Camandaroba06&theme=tokyonight" width="48%" />
 
-  <br/><br/>
+</div>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camandaroba06&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 
