@@ -22,6 +22,8 @@
 - 🎓 **Mestrando em Ciência da Computação** pelo **DCC/UFMG** (Universidade Federal de Minas Gerais).
 - ⚡ **Engenheiro Eletricista** de formação, combinando fundamentos de modelagem matemática, processamento de sinais e sistemas computacionais com inteligência artificial.
 - 🔬 **Principais Linhas de Pesquisa:**
+  - **Séries Temporais & Transfer Learning:** Aplicação e transferência de aprendizado entre domínios temporais, adaptação de modelos pré-treinados e resolução de problemas complexos de previsão e classificação em séries temporais.
+  - **Federated Learning em Séries Temporais:** Aprendizado federado e distribuído em dados sequenciais e temporais, garantindo treinamento colaborativo, privacidade e robustez em ambientes descentralizados.
   - **Continual Learning (Lifelong Learning):** Estratégias de adaptação contínua e mitigação do esquecimento catastrófico (*catastrophic forgetting*) em redes neurais.
   - **Agentes de IA & LLMs:** Arquiteturas autônomas de tomada de decisão, sistemas multi-agentes e raciocínio estruturado.
   - **Explainable AI (XAI):** Interpretabilidade de modelos caixa-preta, métodos de atribuição (*SHAP, LIME, Captum, Integrated Gradients*) e auditoria de modelos.
@@ -42,6 +44,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 #### 🔹 Deep Learning & Pesquisa em IA
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -72,6 +75,8 @@
 
 | Tópico | Descrição / Foco | Ferramentas & Métodos |
 | :--- | :--- | :--- |
+| 📈 **Séries Temporais & Transfer Learning** | Transferência de aprendizado entre domínios temporais, fine-tuning de modelos pré-treinados e previsão em cenários com escassez ou heterogeneidade de dados. | `TensorFlow`, `Transformers`, `Darts`, `NeuralProphet` |
+| 🌐 **Federated Learning em Séries Temporais** | Treinamento colaborativo e distribuído em dados temporais e sequenciais descentralizados, preservando privacidade e integridade. | `Flower (flwr)`, `PySyft`, `FedAvg`, `Differential Privacy` |
 | 🧠 **Continual Learning** | Métodos de regularização, replay de memória e expansão arquitetural para mitigar *catastrophic forgetting* em fluxos contínuos de dados. | `PyTorch`, `Avalanche`, `EWC`, `Replay Strategies` |
 | 🤖 **AI Agents & LLMs** | Agentes autônomos de tomada de decisão, sistemas multi-agentes e integração de raciocínio orientado a tarefas. | `LangChain`, `Hugging Face`, `LlamaIndex`, `APIs` |
 | 🔍 **Explainable AI (XAI)** | Interpretabilidade local e global, métodos de atribuição de features, gradientes integrados e visualização de saliência. | `SHAP`, `LIME`, `Captum`, `Integrated Gradients` |
