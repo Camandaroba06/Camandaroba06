@@ -5,12 +5,12 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=M.Sc.+Candidate+in+Computer+Science+%40+UFMG;Electrical+Engineer+%7C+AI+%26+ML+Researcher;Continual+Learning+%E2%80%A2+AI+Agents+%E2%80%A2+Explainable+AI+(XAI);Deep+Learning+%26+Model+Interpretability)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/camandaroba06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="http://lattes.cnpq.br/SEU_LATTES" target="_blank"><img src="https://img.shields.io/badge/Currículo_Lattes-1B365D?style=for-the-badge&logo=curriculum&logoColor=white" alt="Lattes" /></a>
-    <a href="https://scholar.google.com/citations?user=SEU_GOOGLE_SCHOLAR" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-    <a href="https://orcid.org/SEU_ORCID" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+    <a href="https://scholar.google.com/citations?user=DudXE9MAAAAJ&hl" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+    <!-- <a href="https://orcid.org/SEU_ORCID" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a> -->
     <a href="https://huggingface.co/SEU_HUGGINGFACE" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-    <a href="mailto:seu-email@dcc.ufmg.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:cristianogregorymc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
