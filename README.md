@@ -89,6 +89,7 @@
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Camandaroba06&theme=tokyonight" width="48%" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Camandaroba06&theme=tokyonight" width="48%" />
 
 </div>
